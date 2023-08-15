@@ -1,0 +1,7 @@
+﻿
+// Game Manager - init main services, load saved data + 
+=> Start Lobby + 
+// Lobby takes player name, lobby name +  
+// Lobby Loads GameMode + 
+=> On Server (Host) Lobby Spawns Level
+// Either host or client Lobby Hides

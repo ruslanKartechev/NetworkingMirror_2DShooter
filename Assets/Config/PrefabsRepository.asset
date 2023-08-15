@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccf85166b5714bb496994e4d3a3f5808, type: 3}
+  m_Name: PrefabsRepository
+  m_EditorClassIdentifier: 
+  prefabs:
+  - prefab: {fileID: 574252253474684135, guid: 111fa44a752cb5144a840b8a9fcd38ca, type: 3}
+    name: player
+    netcodeRegistered: 1
+  - prefab: {fileID: 3023586393139377599, guid: 89b935143bac86d4085d4a8f206e7664, type: 3}
+    name: client
+    netcodeRegistered: 1
+  - prefab: {fileID: 7509691422862557707, guid: bd98b7ea90565ae4ba4c662e3bb83006, type: 3}
+    name: coinsUI
+    netcodeRegistered: 1
+  - prefab: {fileID: 3499176462696485570, guid: 5b614e1b41f782341afb65ce5de6fbc8, type: 3}
+    name: healthUI
+    netcodeRegistered: 1
+  - prefab: {fileID: 3897402534490136759, guid: 6b297e56665f4844a8934605a179129f, type: 3}
+    name: bullet
+    netcodeRegistered: 1
+  - prefab: {fileID: 280708894550160797, guid: 1462724f21ce555498bb535b1ead64a4, type: 3}
+    name: winUI
+    netcodeRegistered: 0
+  - prefab: {fileID: 6827962699993392664, guid: ec7b7c22660015649aafaa877287dddd, type: 3}
+    name: controlsUI
+    netcodeRegistered: 0
+  - prefab: {fileID: 7801189554924317109, guid: c40073a7cef8dee439f939f269fc1548, type: 3}
+    name: looseUI
+    netcodeRegistered: 0
